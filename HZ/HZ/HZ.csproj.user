@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://59.127.14.4:21/Update/|ftp://59.127:21/Update/|ftp://114.33.225.77:21/Update/|ftp://114.33.225.77:990/Update/|ftp://114/</PublishUrlHistory>
+    <InstallUrlHistory>http://59.127.14.4/Update/|http://114.33.225.77/Update/|http://114.33.225.77:8080/Update/|http://114.33.225.77:990/Update/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

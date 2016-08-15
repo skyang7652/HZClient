@@ -1,0 +1,16 @@
+C:\Users\fish5\Documents\HZ\HZ\bin\Release\HZ.exe.config
+C:\Users\fish5\Documents\HZ\HZ\bin\Release\HZ.exe
+C:\Users\fish5\Documents\HZ\HZ\bin\Release\HZ.pdb
+C:\Users\fish5\Documents\HZ\HZ\bin\Release\MySql.Data.dll
+C:\Users\fish5\Documents\HZ\HZ\bin\Release\Newtonsoft.Json.dll
+C:\Users\fish5\Documents\HZ\HZ\bin\Release\Newtonsoft.Json.xml
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.CircularProgress.resources
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.FormEmployee.resources
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.FormEmployeeNew.resources
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.FormBidNew.resources
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.FormSalary.resources
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.Main.resources
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.Properties.Resources.resources
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.csproj.GenerateResource.Cache
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.exe
+C:\Users\fish5\Documents\HZ\HZ\obj\Release\HZ.pdb
